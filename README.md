@@ -2,16 +2,24 @@
 
 ---
 
-## Parte A – Bissetriz Interna
+## Bissetriz Interna
 
 ### Teorema da Bissetriz Interna
 
 **Hipótese:** No triângulo \( ABC \), a bissetriz interna do ângulo em \( A \) intersecta o lado \( BC \) no ponto \( D \).
 
 **Tese:** A bissetriz interna divide o lado \( BC \) em segmentos proporcionais aos lados adjacentes:
-\[
-\frac{BD}{DC} = \frac{AB}{AC}
-\]
+
+BD/DC = AB/AC
+
+## Bissetriz Externa
+
+### Teorema da Bissetriz Externa
+
+**Hipótese:** No triângulo \( ABC \), a bissetriz externa do ângulo em \( A \) intersecta a extensão do lado \( BC \) no ponto \( D \).
+
+**Tese:** A bissetriz externa divide o lado \( BC \) externamente em segmentos proporcionais aos lados adjacentes:
+BD/DC = AB/AC
 
 ### Implementação em Python
 
