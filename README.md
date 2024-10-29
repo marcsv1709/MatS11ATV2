@@ -1,9 +1,5 @@
 # Exploração das Bissetrizes Interna e Externa em Triângulos
 
-## Objetivo
-
-Aplicar os conceitos das bissetrizes interna e externa em triângulos, utilizando lógica matemática e programação em Python.
-
 ---
 
 ## Parte A – Bissetriz Interna
